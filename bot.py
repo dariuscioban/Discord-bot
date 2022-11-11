@@ -5,10 +5,9 @@ This module contains the main functionalities of the bot.
 __author__ = "dariuscioban@yahoo.com"
 
 import responses
+from token import BOT_TOKEN
 
 import discord
-
-BOT_TOKEN = 'MTA0MDMxMzM4MTMyMTcxNTgwMw.GTeUUZ.GDaFSAbpHoJuS7B5YLlIv6L_GPxfQSEuYoPr_k'
 
 
 def run_bot():
